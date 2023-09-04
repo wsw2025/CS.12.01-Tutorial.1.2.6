@@ -17,7 +17,7 @@ public class Mountain {
 
   /** @param array an array of positive integer values
   * @param start the first index to check
-  * Precondition: 0 £ start < array.length - 1
+  * Precondition: 0 <= start < array.length - 1
   * @return true if for each j such that start <= j < array.length - 1,
   * array[j] > array[j + 1];
   *         false otherwise
