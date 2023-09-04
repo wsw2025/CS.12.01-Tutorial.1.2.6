@@ -37,6 +37,7 @@ public class Mountain {
 }
 
 a) Write the Mountain method isIncreasing. 
+
 b) Write the Mountain method isDecreasing.
 
 c) Write the Mountain method getPeakIndex. Method getPeakIndex returns the index of the first peak found in the parameter array, if one exists. A peak is defined as an element whose value is greater than the value of the element immediately before it and is also greater than the value of the element immediately after it. Method getPeakIndex starts at the beginning of the array and returns the index of the first peak that is found or -1 if no peak is found. 
