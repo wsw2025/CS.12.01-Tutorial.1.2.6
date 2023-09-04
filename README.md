@@ -10,6 +10,7 @@ public class Mountain {
   * @return true if for each j such that 0 <= j < stop, array[j] < array[j + 1] ;
   *         false otherwise
   */
+  
 	public static boolean isIncreasing(int[] array, int stop) {
 		// To be implemented.
 	}
@@ -21,6 +22,7 @@ public class Mountain {
   * array[j] > array[j + 1];
   *         false otherwise
   */
+  
 	public static boolean isDecreasing(int[] array, int start) {
 		// To be implemented.
 	}
